@@ -18,7 +18,7 @@
       </button>
       <button class="btn btn-success" 
         @click="m_submitData">
-          Save & Continue
+          Save &amp; Continue
       </button>
 	</div>
 </template>
